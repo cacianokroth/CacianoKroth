@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caciano-kroth-365917147/)](https://www.linkedin.com/in/caciano-kroth-365917147/)
 
 <a href="https://github.com/cacianokroth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cacianokroth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=c20c18&bg_color=ffffff&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cacianokroth&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=c20c18&bg_color=ffffff&hide=issues"/>
 </a>
 
 
